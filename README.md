@@ -15,3 +15,6 @@ Frontend setup:
 1. cd app_frontend
 2. yarn install
 3. yarn start
+
+Sample look: 
+<img width="1023" alt="image" src="https://github.com/user-attachments/assets/69d9d3b0-ebf5-45b0-885e-df0db2804b90" />
